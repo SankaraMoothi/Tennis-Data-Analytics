@@ -66,6 +66,7 @@ Before running the project, you will need the following:
     ```env
     API_KEY=your_sportradar_api_key
     DB_HOST=your_mysql_host
+    DB_PORT=your_mysql_port
     DB_USER=your_mysql_user
     DB_PASSWORD=your_mysql_password
     DB_NAME=your_database_name
